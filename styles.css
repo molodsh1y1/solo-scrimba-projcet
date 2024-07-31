@@ -22,16 +22,17 @@ img {
 .hero-section {
     background-image: url("/images/ternopil.png");
     background-size: cover;
-    height: 300px;
+    height: 500px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     color: #ffffff;
     text-shadow: 1px 1px 3px black;
 }
 
 #hero-h1 {
-    margin: 50px 0 0 0;
+    margin: 0;
     padding: 6px 12px;
     background-color: #457B9D;
     border-radius: 5px;
